@@ -14,13 +14,11 @@ Ce dépôt est structuré de la manière suivante :
 - `annales/` : Ce répertoire contient quelques annales.
 
 ## Objectifs
-Les principaux objectifs de ce dépôt sont :
 
-1. **Aider les étudiants à comprendre le cours** : En fournissant des supports de cours détaillés et des exemples pratiques.
+1. **Faciliter la préparation des TD et TP** : En fournissant des énoncés clairs et des solutions détaillées pour chaque exercice.
 
-2. **Faciliter la préparation des TD et TP** : En fournissant des énoncés clairs et des solutions détaillées pour chaque exercice.
 
-3. **Encourager l'auto-apprentissage et la collaboration** : En offrant des ressources supplémentaires et en encourageant les étudiants à partager leurs propres solutions et exemples.
+**Avertissement**
 
 Je ne vous encourage en aucun cas à rater les cours magistraux, TD et TP.
 Ces séances sont essentielles pour une compréhension complète et approfondie des sujets abordés.
